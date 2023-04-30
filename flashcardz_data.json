@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "title": "Create progress tab",
+        "status": "planned",
+        "description" : "Keep tracks of the learning session you have made by knowing how much time per week and per session you spend."
+    },
+    {
+        "id": "2",
+        "title": "Improve flash card animation",
+        "status": "planned",
+        "description" : "Get the most of your flash card with fancier animations."
+    },
+    {
+        "id": "3",
+        "title": "Initial Launch",
+        "status": "finished",
+        "description" : "Release v1 to the public.",
+        "isFinished": true
+    }
+]

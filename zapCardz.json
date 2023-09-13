@@ -7,9 +7,9 @@
     },
     {
         "id": "2",
-        "title": "Improve flash card animation",
+        "title": "Handle spaced repetition",
         "status": "planned",
-        "description" : "Get the most of your flash card with fancier animations."
+        "description" : "Use spaced repetition to improve your learning experience and never forget what you learned."
     },
     {
         "id": "3",

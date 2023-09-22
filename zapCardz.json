@@ -17,5 +17,12 @@
         "status": "finished",
         "description" : "Release v1 to the public.",
         "isFinished": true
+    },
+    {
+        "id": "4",
+        "title": "Generate flash card with AI",
+        "status": "planned",
+        "description" : "Generating flash cards by hand can take a long time, but AI could do it for you.",
+        "isFinished": false
     }
 ]

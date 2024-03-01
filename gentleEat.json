@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0",
+        "title": "V0 Launch",
+        "status": "finished",
+        "description" : "Release v0 to the public.",
+        "isFinished": true
+    },
+    {
+        "id": "1",
+        "title": "V1 Launch",
+        "status": "planned",
+        "description" : "Release v1 to the public.",
+        "isFinished": false
+    },
+  {
+        "id": "2",
+        "title": "Charts visual of mouthful time",
+        "status": "planned",
+        "description" : "Get an insight of your progression",
+        "isFinished": false
+    }
+]

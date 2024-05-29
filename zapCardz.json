@@ -8,7 +8,7 @@
     },
     {
         "id": "1",
-        "title": "Create progress tab",
+        "title": "Create learning analytics",
         "status": "planned",
         "description" : "Keep tracks of the learning session you have made by knowing how much time per week and per session you spend."
     },
@@ -20,8 +20,35 @@
     },
     {
         "id": "3",
-        "title": "Generate flash card with AI",
+        "title": "Generate flashcard with AI",
+        "status": "finished",
+        "description" : "Generating flash cards by hand can take a long time, but AI could do it for you.",
+        "isFinished": true
+    },
+    {
+        "id": "4",
+        "title": "Improve screen that creates a flashcard manually",
         "status": "planned",
-        "description" : "Generating flash cards by hand can take a long time, but AI could do it for you."
-    }
+        "description" : "Create a flashcard without flipping a card.",
+        "isFinished": true
+    },
+    {
+        "id": "5",
+        "title": "MacOS App",
+        "status": "planned",
+        "description" : "ZapCardz on MacOS to keep learning everywhere",
+        "isFinished": true
+    },
+    {
+        "id": "6",
+        "title": "Streak Learning 🔥",
+        "status": "planned",
+        "description" : "Learning is all about repeting during several days. Streak will motivate to keep that trend."
+    },
+    {
+        "id": "7",
+        "title": "Dark Mode 🌙",
+        "status": "planned",
+        "description" : "A dark theme of the app for late study"
+    },
 ]

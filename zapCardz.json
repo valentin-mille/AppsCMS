@@ -51,4 +51,10 @@
         "status": "planned",
         "description" : "A dark theme of the app for late study"
     },
+    {
+        "id": "8",
+        "title": "Share & receive flashcards with friends 🔗",
+        "status": "planned",
+        "description" : "Why creating flashcards if someone already did?"
+    },
 ]
